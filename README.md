@@ -1,2 +1,3 @@
 # ERLC-Silent-Aim-Script
-This is a basic silent aim with no UI for https://www.roblox.com/games/2534724415/Emergency-Response-Liberty-County.  Please note that your executor must have a high sUNC.
+Sorry to anyone wanting to view the source, I've obfuscated it so that the ERLC developers don't patch this too quickly.
+This script is open-source and free. Anyone can modify/use this script without restrictions. You can also view this script over at scriptblox.com or haxhell.com or rscripts.net.
