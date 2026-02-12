@@ -4,7 +4,11 @@ This script is not open-source. You can also view this script over at scriptblox
 
 Default Team settings:
 ```lua
--- 2 = Silent aim doesn't target at all, 1 = Silent aim only targets 0 if you're on 1, 0 = Silent aim targets both 0 and 1 if you're on 0.
+--[[
+2 = Silent aim doesn't target at all,
+1 = Silent aim only targets 0 if you're on 1,
+0 = Silent aim targets both 0 and 1 if you're on 0.
+]]
 getgenv().teams = {
     ["Civilian"] = 0,
     ["DOT"] = 2,
