@@ -1,6 +1,6 @@
 # ERLC-Silent-Aim-Script
 Sorry to anyone wanting to view the source, I've obfuscated it so that the ERLC developers don't patch this too quickly.
-This script is not open-source. You can also view this script over at scriptblox.com or haxhell.com or rscripts.net.
+This script is not open-source. You can also view this script over at [scriptblox.com](https://scriptblox.com/script/Emergency-Response:-Liberty-County-Silent-Aim-Keyless-110687) or [haxhell.com](https://haxhell.com/scripts/emergency-response-liberty-county-emergency-response-liberty-county-silent-aim-keyless) or [rscripts.net](https://rscripts.net/script/emergency-response-liberty-county-silent-aim-keyless-VK4r).
 
 Default Team settings:
 ```lua
