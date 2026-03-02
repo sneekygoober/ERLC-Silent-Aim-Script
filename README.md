@@ -17,5 +17,6 @@ getgenv().teams = {
     ["Police"] = 1,
     ["Sheriff"] = 1
 };
+getgenv().fov = 300;
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sneekygoober/ERLC-Silent-Aim-Script/refs/heads/main/main.luau"))();
 ```
